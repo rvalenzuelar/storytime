@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=zTNA0MtZwso
 
 Steps:
 
-django-admin.py startproject storytime (10:21)
+[django-admin.py startproject storytime (10:21)](https://youtu.be/zTNA0MtZwso?t=10m21s)
 
 A project contains:
 settings.py: configuration for the project
