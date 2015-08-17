@@ -15,6 +15,7 @@ urls.py: starting point to configure urls
 [python manage.py startapp story (13:33)](https://youtu.be/zTNA0MtZwso?t=13m33s)
 
 setup DATABASES in settings.py
+
 add app to INSTALLED_APPS in settings.py
 
 [modify urls.py (16:53)](https://youtu.be/zTNA0MtZwso?t=16m53s)
